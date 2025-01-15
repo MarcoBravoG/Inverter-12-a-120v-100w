@@ -10,3 +10,5 @@ https://easyeda.com/editor#id=!3418619da50f490e9f46112596d878be
 
 https://www.eeweb.com/100w-inverter-circuit-schematic/
 https://www.youtube.com/watch?v=_8JuUpKryFY
+
+https://inventorkr.blogspot.com/2021/05/how-to-make-simple-inverter-1500w.html

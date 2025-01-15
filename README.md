@@ -7,3 +7,5 @@ INVERTER 300W: https://inventorkr.blogspot.com/2022/10/300w-inverter-sine-wave.h
 
 
 https://easyeda.com/editor#id=!3418619da50f490e9f46112596d878be
+
+https://www.eeweb.com/100w-inverter-circuit-schematic/
